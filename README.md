@@ -82,10 +82,28 @@ Use `questions_final.ipynb` to replace [[X]] to finish up question generation.
 `GPT-4o-results.zip` contains results of each question for GPT-4o in DBB.
 
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # ()
-[//]: # (If you use DBB in your work, please cite:)
 
-[//]: # ()
-[//]: # (```bibtex)
+If you use DBB in your work, please cite:
+```
+@inproceedings{pan-etal-2025-whats,
+    title = "What{'}s Not Said Still Hurts: A Description-Based Evaluation Framework for Measuring Social Bias in {LLM}s",
+    author = "Pan, Jinhao  and
+      Raj, Chahat  and
+      Yao, Ziyu  and
+      Zhu, Ziwei",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.76/",
+    pages = "1438--1459",
+    ISBN = "979-8-89176-335-7",
+}
+```
